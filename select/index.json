@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "キューにストップできません！ (Instrumental)",
+  "base_artist": "CUTIE STREET",
+  "createdAt": "2025-12-01T12:36:06.799725Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キューにストップできません！",
+      "artist": "CUTIE STREET",
+      "has_synced": true,
+      "path": "select/01_キューにストップできません!_CUTIE_STREET.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キューにストップできません!",
+      "artist": "CUTIE STREET",
+      "has_synced": false,
+      "path": "select/pl_01_キューにストップできません!_CUTIE_STREET.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "キューにストップできません!",
+      "artist": "CUTIE STREET",
+      "has_synced": false,
+      "path": "select/pl_02_キューにストップできません!_CUTIE_STREET.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "キューにストップできません!",
+      "artist": "CUTIE STREET",
+      "has_synced": false,
+      "path": "select/pl_03_キューにストップできません!_CUTIE_STREET.txt"
+    }
+  ]
+}
